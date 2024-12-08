@@ -29,6 +29,7 @@ const MySkills = () => {
                 images={images}
                 setFocusElement={setFocusElement}
               />
+              
               <div className="info-box-wrapper">
               </div>
             </div>
