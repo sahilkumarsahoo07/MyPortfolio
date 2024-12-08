@@ -34,9 +34,6 @@ const MySkills = () => {
             </div>
           </div>
           <div className="col-md-6 d-flex justify-content-center align-items-center">
-            {/* <div className="BoxCard">
-              <p>{info[focusElement]}</p>
-            </div> */}
             <div class="parent">
               <div class="card">
                 <div class="logo">
